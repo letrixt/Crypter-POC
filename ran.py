@@ -5,7 +5,7 @@ import time
 import random
 
 # Created by Tristian V.
-# Ransomeware POC
+# Crypter POC
 # Version: 1.0
 # Description: 
 # Please don't deploy me, I'm for educational purposes only :)
